@@ -20,7 +20,7 @@ One-Click to deploy well-designed AutoGPT-Next-Web web UI on Vercel.
 
 ## Discuss with us
 
-![cover](https://user-images.githubusercontent.com/20209191/234480921-0a8f754e-1110-47bf-9c40-25e3daed2c05.png)
+ ![cover](https://user-images.githubusercontent.com/20209191/234480921-0a8f754e-1110-47bf-9c40-25e3daed2c05.png)
 
 ## Features
 
@@ -40,7 +40,7 @@ One-Click to deploy well-designed AutoGPT-Next-Web web UI on Vercel.
 
 ## Get Started
 
-[Click me to view the detailed tutorial](https://autogpt-next-web.gitbook.io/autogpt-next-web/)
+USDT ERC20：0x43890E9a47e4589D8e4DB00Ac83EB769617Ae9e5
 
 1. Prepare the OpenAI API Key;
 2. Click the deploy button and follow the prompts
